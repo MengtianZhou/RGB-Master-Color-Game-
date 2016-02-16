@@ -1,0 +1,55 @@
+			#order_history{
+				background-color: #df0101;
+				color: #ffffff;
+			}
+			#myAccount{
+				background-color: #000000;
+				color:#ffffff;
+			}
+			div.order_history{
+				
+			}
+			table,th,td{
+				border:solid 1px #a6a6a6;
+				border-collapse: collapse;
+			}
+			th,td{
+				padding:10px;
+			}
+			table{
+				width: 900px;
+				position: relative;
+				left: 5%;
+				top:20px;
+				margin: 15px;
+			}
+			caption{
+				background-color: #a6a6a6;
+				color:#ffffff;
+				font-size: 1.2em;
+				padding-left: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				text-align: left;
+			}
+			th{
+				text-align: center;
+				background-color: #a6a6a6;
+				color:#ffffff;
+			}
+			td{
+				text-align: left;
+			}
+			form .button {						
+				border-radius: 5px;
+				border: 1px solid #a6a6a6;
+				box-shadow: inset -1px -1px 0 #000000;
+				width: 70px;
+				height: 30px;
+				margin:10px;
+				cursor: pointer;
+				color: white;
+				font-weight: normal;
+				font-size: 15px;
+			}
+			

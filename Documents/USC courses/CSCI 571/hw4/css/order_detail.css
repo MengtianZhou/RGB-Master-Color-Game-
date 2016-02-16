@@ -1,0 +1,72 @@
+			#order_history{
+				background-color: #df0101;
+				color: #ffffff;
+			}
+			#myAccount{
+				background-color: #000000;
+				color:#ffffff;
+			}
+			table,th,td{
+				border:solid 1px #a6a6a6;
+				border-collapse: collapse;
+			}
+			th,td{
+				padding:10px;
+			}
+			table{
+				width: 800px;
+				position: relative;
+				left: 10%;
+				top:20px;
+				margin: 15px;
+			}
+			caption{
+				background-color: #a6a6a6;
+				color:#ffffff;
+				font-size: 1.2em;
+				padding-left: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+				text-align: left;
+			}
+			th{
+				/*width: 265px;*/
+				text-align: center;
+				background-color: #a6a6a6;
+				color:#ffffff;
+			}
+			td{
+				/*width: 260px;*/
+				text-align: center;
+			}
+			
+			img.product{
+                padding: 10px;
+                width: 100px;
+                height: 80px;
+                border:solid #000000 8px;
+                border-radius: 2px;
+                background-color: #F3E2A9;
+                box-shadow: 0px 0px 5px #000000;
+			}
+			a.button{
+				text-decoration: none;
+				display: inline-block;
+				background-color: #DF3A01;
+				color:#ffffff;
+				padding:10px;
+				margin-left: 10%;
+				border:solid 1px #a6a6a6;
+				box-shadow: 0 0 1px #a6a6a6;
+				border-radius: 3px;
+				color:white;
+				font-size: 15px;
+			}
+			p.amount{
+				padding:0;
+				margin-right: 15%;
+				text-align: right;
+				font-size: 1.5em;
+				font-weight: bold;
+				color:#FF4000;
+			}

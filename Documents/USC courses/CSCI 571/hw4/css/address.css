@@ -1,0 +1,41 @@
+			#profile{
+				background-color: #df0101;
+				color: #ffffff;
+			}
+			#myAccount{
+				background-color: #000000;
+				color:#ffffff;
+			}
+			
+			table,th,td{
+				border-collapse: collapse;
+				/*border:1px solid #a6a6a6;*/
+			}
+			th,td{
+				padding:10px;
+			}
+			table{
+				width: 800px;
+				position: relative;
+				left: 10%;
+				top:20px;
+				margin: 15px;
+			}
+			caption{
+				background-color: #a6a6a6;
+				color:#ffffff;
+				font-size: 1.2em;
+				/*padding: 5px;*/
+				text-align: left;
+				padding-left: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}
+			th{
+				width: 250px;
+				text-align: right;
+			}
+			td{
+				width: 550px;
+				text-align: left;
+			}

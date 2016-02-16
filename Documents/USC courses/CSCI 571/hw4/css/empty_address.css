@@ -1,0 +1,23 @@
+table,th,td{
+				border-collapse: collapse;
+			}
+			td{
+				padding:10px;
+				text-align: center;
+			}
+			table{
+				width: 800px;
+				position: relative;
+				left: 10%;
+				top:20px;
+				margin: 15px;
+			}
+			caption{
+				background-color: #a6a6a6;
+				color:#ffffff;
+				font-size: 1.2em;
+				text-align: left;
+				padding-left: 10px;
+				padding-top: 5px;
+				padding-bottom: 5px;
+			}

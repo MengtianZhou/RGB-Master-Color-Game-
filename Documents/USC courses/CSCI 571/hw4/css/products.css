@@ -1,0 +1,35 @@
+            #products{
+                background-color:#DF0101;
+                color:white; 
+            }
+            
+            body{
+                width: 100%;
+                background-color: #bdbdbd;
+            }
+            div.products{
+                margin-left: 100px;
+                margin-top: 10px;
+                width: 1200px;
+                height:540px;
+                
+            }
+            div.product{
+                float:left;
+                margin:0;
+                padding:0;
+            }
+            img.product{
+                width: 280px;
+                height: 180px;
+                margin-top:20px;
+                margin-bottom: 20px;
+                margin-left: 30px;
+                margin-right: 30px;
+                padding:13px;
+                border:solid #000000 12px;
+                border-radius: 3px;
+                background-color: #F3E2A9;
+                box-shadow: 1px 1px 20px #000000;
+            }
+            

@@ -1,0 +1,13 @@
+			img.empty{
+				position: relative;
+				top:5%;
+				left: 10%;
+				width: 800px;
+				height: auto;
+			}
+			p.notice{
+				font-size: 2em;
+				color:#01A9DB;
+				padding-left: 400px;
+				font-weight: bold;
+			}

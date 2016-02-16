@@ -1,0 +1,28 @@
+			img.slideshow{
+				margin:0;
+				padding:0;
+				position:relative;
+				top:50px;
+				left:43%;
+				width: 600px;
+				height: 380px;
+				padding:30px;
+				background-color: #F3E2A9;
+				box-shadow: 0px 0px 50px #000000;
+				border-radius: 5px;
+				border:solid black 20px;
+			}
+			body{
+				background-image: url("http://cs-server.usc.edu:12123/CodeIgniter/img/website/001.png");
+				background-repeat: no-repeat;
+				background-position: left top;
+				background-color: #6e6e6e;
+				background-size: 750px 750px;
+			}
+			#home{
+				background-color:#DF0101;
+				color:white;
+			}
+			div.home{
+				height: 80%;
+			}
